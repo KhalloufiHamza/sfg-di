@@ -1,0 +1,4 @@
+guru:
+  username: YMLdevUsername
+  password: YMLdevPassword
+  jdbcUrl: YMLdevJDBC
